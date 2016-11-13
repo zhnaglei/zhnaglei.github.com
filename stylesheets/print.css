@@ -78,6 +78,10 @@ header h2 {
 }
 #main_content {
   padding-top: 20px;
+
+}
+#main_content .p_bottom{
+  border-bottom: 1px dashed #b5e853;
 }
 
 code, pre {

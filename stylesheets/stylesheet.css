@@ -86,6 +86,7 @@ section img {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  display: inline-block;
   font-weight: normal;
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
   color: #b5e853;
@@ -244,4 +245,14 @@ a {
 
 .cf {
   zoom:1;
+}
+
+
+#footer{
+ color: #b5e853;
+  padding: 10px 0;
+
+}
+.footer_top{
+  border-top: 1px dashed #b5e853;
 }
