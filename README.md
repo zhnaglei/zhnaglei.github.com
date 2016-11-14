@@ -1,9 +1,10 @@
 #张磊个人主页
 >张磊的个人网站
+
 ##小张
 1. 电话：18109485312
 2. 邮箱：W3_0928@163.com
-3. Github:zhnaglei.github.io
+3. Github:[zhnaglei.github.io](zhnaglei.github.io)
 4. 地址：兰州市城关区雁西路
  
 ##技能简介： 
